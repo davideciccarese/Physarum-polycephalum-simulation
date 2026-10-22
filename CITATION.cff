@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Physarum polycephalum adaptive transport-network simulation"
+authors:
+  - family-names: Ciccarese
+    given-names: Davide
+    email: davide.ciccarese@gmail.com
+year: 2026
+license: MIT
